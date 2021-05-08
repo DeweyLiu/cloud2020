@@ -1,4 +1,4 @@
-package com.codewey.springcloud;
+package com.dewey.springcloud;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
